@@ -36,7 +36,7 @@
 <div align="center">
   <h2>Resume</h2>
   <object data="resume/Sample_Engineering_Resume.pdf" type="application/pdf" width="80%" height="600px">
-    <p>Your browser does not support inline PDFs. <a href="resume/Sample_Engineering_Resume.pdf" target="_blank">View or download the PDF here</a>.</p>
+    <p>Your browser does not support inline PDFs. <a href="resume/Sample_Engineering_Resume.pdf" target="_blank">View the resume here</a>.</p>
   </object>
 </div>
 
