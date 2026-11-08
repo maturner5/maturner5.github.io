@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Matthew Turner</h1>
-  <h2>NCAS Career Portfolio</h2>
+  <h1 style="border-bottom: none;">Matthew Turner</h1>
+  <h2 style="border-bottom: none;">NCAS Career Portfolio</h2>
 </div>
 
 <div align="center">
