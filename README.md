@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>Projects and Experiences</h2>
-  <img src="
+  [test image 1](/images/Webb's_First_Deep_Field.jpg)
 </div>
 
 <div align="center">
