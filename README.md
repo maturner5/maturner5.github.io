@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="border-bottom: none;">Matthew Turner</h1>
-  <h2 style="border-bottom: none;">NCAS Career Portfolio</h2>
+  <h3 style="border-bottom: none;">NCAS Career Portfolio</h3>
 </div>
 
 <div align="center">
@@ -47,5 +47,5 @@
 
 <br>
 <div align="center">
-  <p>maturner99@outlook.com</p>
+  <p>| maturner99@outlook.com |</p>
 </div>
