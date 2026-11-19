@@ -51,5 +51,5 @@
 
 <br>
 <div align="center">
-  <p>| maturner99@outlook.com |</p>
+  <p>| maturner99@outlook.com | Blacksburg, VA |</p>
 </div>
