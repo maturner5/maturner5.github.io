@@ -1,3 +1,5 @@
+{::options auto_ids="false" /}
+
 <div align="center">
   <h1 style="border-bottom: none;">Matthew Turner</h1>
   <h3>NCAS Career Portfolio</h3>
