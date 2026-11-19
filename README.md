@@ -9,6 +9,10 @@
 </div>
 
 <div align="center">
+  <h2>Technical Skills</h2>
+</div>
+
+<div align="center">
   <h2>Projects and Experiences</h2>
   <table>
   <tr>
