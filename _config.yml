@@ -1,2 +1,4 @@
 title: null
 name: ""
+markdown: kramdown
+auto_ids: false
