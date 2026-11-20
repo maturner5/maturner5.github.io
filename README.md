@@ -57,7 +57,7 @@
 
 <div align="center">
   <h2>References</h2>
-  <p><sup>1</sup> National Center for ONET Development, "17-2071.00 - Electrical Engineers," ONET OnLine, 2026. [Online]. Available: onetonline.org
+  <p><sup>1</sup> National Center for ONET Development, "17-2071.00 - Electrical Engineers," ONET OnLine, 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2071.00
 </p>
 <p><sup>2</sup> National Aeronautics and Space Administration (NASA), "NASA Force," NASA Careers, 2026. [Online]. Available: nasa.gov
 </p>
