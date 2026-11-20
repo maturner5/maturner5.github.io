@@ -26,7 +26,7 @@
   <table>
   <tr>
     <td>
-      <img src="images/Webb's_First_Deep_Field.jpg" alt="Project 1" width="100%">
+      <img src="images/20261118_122107.jpg" alt="Project 1" width="100%">
     </td>
     <td>
       <h3>Rubberband Powered Car</h3>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>
-      <img src="images/Space_Facts_for_Kids_Header_2024.webp" alt="test image 2" width="100%">
+      <img src="images/Egr 125 Project One Screenshot.png" alt="test image 2" width="100%">
     </td>
     <td>
       <h3>C++ Program to Calculate the Roots of a Quadratic Equation</h3>
