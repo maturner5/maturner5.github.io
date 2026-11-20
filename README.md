@@ -30,7 +30,7 @@
     </td>
     <td>
       <h3>Rubberband Powered Car</h3>
-      <p>As part of a four-person engineering design team for my EGR 121 Foundations of Engineering class, we built a rubberband powered car capable of traveling 10 to 25 feet and dropping a golf ball onto a 6-inch diameter target, all while weighing under 1 lbs.<br> Aligns with NASA mass-constrained design (SWaP) and mechanical payload deployment. Calibrating string length to trigger an exact 6-in. target drop without electronics demonstrates aerospace kinematics, reliable fail-safe mechanisms, and iterative verification testing.<sup>3</sup></p>
+      <p>As part of a four-person engineering design team for my EGR 121 Foundations of Engineering class, we built a rubberband powered car capable of traveling 10 to 25 feet and dropping a golf ball onto a 6-inch diameter target, all while weighing under 1 lbs.<br><br> Aligns with NASA mass-constrained design (SWaP) and mechanical payload deployment. Calibrating string length to trigger an exact 6-in. target drop without electronics demonstrates aerospace kinematics, reliable fail-safe mechanisms, and iterative verification testing.<sup>3</sup></p>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
     <td>
       <h3>C++ Program to Calculate the Roots of a Quadratic Equation</h3>
       <p>Developed a C++ program for EGR 125 Intro. to Programming for Engineers that computes the real and complex roots of quadratic equations. Implemented user input validation, discriminant logic, and formatted console output to ensure accurate, crash free mathematical calculations.
-<br> Aligns with NASA and aerospace industry reliance on C++ for realtime simulation, trajectory modeling, and flight software. Implementing edge case validation and numerical root-solving builds foundational skills in safety critical software engineering and verification.<sup>4</sup>
+<br><br> Aligns with NASA and aerospace industry reliance on C++ for realtime simulation, trajectory modeling, and flight software. Implementing edge case validation and numerical root-solving builds foundational skills in safety critical software engineering and verification.<sup>4</sup>
 </p>
     </td>
   </tr>
