@@ -59,7 +59,7 @@
   <h2>References</h2>
   <p><sup>1</sup> National Center for ONET Development, "17-2071.00 - Electrical Engineers," ONET OnLine, 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2071.00
 </p>
-<p><sup>2</sup> National Aeronautics and Space Administration (NASA), "NASA Force," NASA Careers, 2026. [Online]. Available: nasa.gov
+<p><sup>2</sup> National Aeronautics and Space Administration (NASA), "NASA Force," NASA Careers, 2026. [Online]. Available: https://www.nasa.gov/careers/nasaforce/
 </p>
 <p><sup>3</sup> National Aeronautics and Space Administration (NASA), NASA Systems Engineering Handbook, NASA/SP-2016-6105 Rev2, Washington, DC, USA, 2016. [Online]. Available: https://www.nasa.gov/reference/systems-engineering-handbook/
 </p>
